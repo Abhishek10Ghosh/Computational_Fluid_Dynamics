@@ -1,4 +1,4 @@
-## Computational Fluid Dynamics
+# Computational Fluid Dynamics
 
 The reports and codes are part of the Computational Fluid Dynamics Course ( ME3180 FEM & CFD Theory ) at IIT Hyderabad.
 
